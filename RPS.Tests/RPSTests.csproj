@@ -10,7 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\RPS\RPSTests.csproj" />  
+    <ProjectReference Include="..\RPS\RPS.csproj" />  
   </ItemGroup>
 
 </Project>

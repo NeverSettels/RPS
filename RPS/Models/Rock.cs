@@ -1,10 +1,13 @@
+
+
 namespace RPS
 {
   public class RockPaperScissors
   {
-    public void Rock()
+    public static string GetWinner(string choice, string CPUchoice)
     {
-      public { get; set; }
+     return "hello";
     }
   }
+
 }

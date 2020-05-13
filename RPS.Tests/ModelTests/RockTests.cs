@@ -3,7 +3,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace RPS.TestTools
 {
   [TestClass]
-  public class TriangleTypeTest
+  public class RockTest
   {
     //[TestMethod]
   }
