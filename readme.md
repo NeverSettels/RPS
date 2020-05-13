@@ -45,11 +45,10 @@ git clone {link to repository}
 #### RPS
 |                          Behavior                          | Input  | Output  |
 | :--------------------------------------------------------: | :----: | :-----: |
-| The program will welcome the user | 'dontnet run' | 'Welcome to Pierre's'  |
-| The program will tell the user how much bread/pastries cost | 'dotnet run' | '1 bread loaf = $5, with a buy two get one free special', '1 pastry = $2 or 3 for $5' |
-| The program will ask the user what they would like to buy | 'Bread and/or Pastries' | 'holds response data' |
-| The program tells the user how much their order will cost | '2 loaves (get another free) & 3 pastries' | '$15' |
-| The program thanks the user for their buisness | 'N/A' | 'Thank you for your time' |
+| The program will welcome the user to come play | 'dontnet run' | 'Let's play a game of RPS'  |
+| The program will accept user's choice | 'rock, paper or scissors' | 'holds data to compare to the cpu's choice' |
+| The program will generate a random choice of  'rock, paper or scissors' | na | 'holds data to compare to user's choice' |
+| The program will compare answers and display a victor | 'User Choice' | 'victor' |
 
 ---
 ## Known Bugs
